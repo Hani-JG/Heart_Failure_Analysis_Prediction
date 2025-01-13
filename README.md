@@ -23,7 +23,7 @@ In this project, the dataset is preprocessed using the following steps:
 4. **Train-Test Split**: The data is split into training and testing sets using an 80-20 ratio to evaluate model performance effectively.
 
 ## Data Analysis & Visualizations
-In this project, various visualizations are performed to explore the relationships between different features in the dataset and their impact on predicting heart failure events. For a detailed analysis of each visualization and its interpretation, please refer to the [Analysis and Visualizations Report](docs/analysis_and_visualizations_report.pdf) file.
+In this project, various visualizations are performed to explore the relationships between different features in the dataset and their impact on predicting heart failure events. For a detailed analysis of each visualization and its interpretation, please refer to the [Analysis and Visualizations Report](https://github.com/Hani-JG/heart_failure_analysis/blob/main/analysis_and_visualizations_report.md) file.
 
 ### Visualizations Include:
 1. **Correlation Heatmap**: Correlations between features in the dataset.
@@ -43,7 +43,7 @@ In this project, multiple machine learning models are trained and evaluated to p
 3. **Decision Tree**
 4. **Random Forest**
 
-Each model is evaluated using metrics such as accuracy, precision, recall, and confusion matrix. For a detailed explanation of the model performance, including metrics and comparison between different models, please refer to the [Model Evaluation Report](docs/model_evaluation_report.pdf) file.
+Each model is evaluated using metrics such as accuracy, precision, recall, and confusion matrix. For a detailed explanation of the model performance, including metrics and comparison between different models, please refer to the [Model Evaluation Report](https://github.com/Hani-JG/heart_failure_analysis/blob/main/model_evaluation_report.md) file.
 
 ### Evaluation Metrics Include:
 - **Accuracy**: Overall correctness of the model.
